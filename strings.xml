@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Penganalisis Peribadi</string>
+    <string name="title_screen1">Penganalisis Peribadi</string>
+    <string name="label_nama">Nama Penuh:</string>
+    <string name="hint_nama">cth: Ahmad bin Ali</string>
+    <string name="label_tarikh">Tarikh Lahir:</string>
+    <string name="hint_tarikh">2000-05-15</string>
+    <string name="btn_analisis">ANALISIS SAYA</string>
+
+    <string name="title_screen2">Hasil Analisis</string>
+    <string name="header_analisis_nama">ANALISIS NAMA:</string>
+    <string name="header_analisis_tarikh">ANALISIS TARIKH LAHIR:</string>
+    <string name="error_empty">Sila isi semua ruangan!</string>
+    <string name="error_invalid_date">Format tarikh mestilah YYYY-MM-DD!</string>
+</resources>
